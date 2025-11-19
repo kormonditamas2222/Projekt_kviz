@@ -32,5 +32,10 @@
                 <Button x:Name="btn_d" Grid.Row="1" Grid.Column="1" Content="D válasz helye" DockPanel.Dock="Bottom"/>
             </Grid>
         </DockPanel>
+        <StackPanel Visibility="Hidden" x:Name="stack_end">
+            <Label Content="Eredmény:" FontSize="80" HorizontalAlignment="Center"/>
+            <TextBlock x:Name="tbox_eredmeny" Text="" FontSize="80" HorizontalAlignment="Center"/>
+            <TextBlock Text="Szép munka" FontSize="60" HorizontalAlignment="Center"/>
+        </StackPanel>
     </Grid>
 </Window>
