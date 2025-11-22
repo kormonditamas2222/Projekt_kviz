@@ -108,6 +108,10 @@ namespace kviz
             tbox_eredmeny.Text = score.ToString();
             dock_quiz.Visibility = Visibility.Hidden;
             stack_end.Visibility = Visibility.Visible;
+
+            string tosave = tbox_nev.Text + ";" + score;
+
+            File.AppendAllText("eredmenyek.txt", tosave);
         }
     }
 }
