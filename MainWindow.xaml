@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:kviz"
         mc:Ignorable="d"
         Title="Történelem kvíz" Height="450" Width="800">
-    <Grid>
+    <Grid Background="White">
         <StackPanel x:Name="stack_start" Margin="10">
             <Label Content="Üdvözlünk a kvízben!" FontSize="36" HorizontalAlignment="Center"/>
             <TextBlock  TextWrapping="Wrap" Text="A kvíz témája: történelem. Tíz kérdésre kell válaszolnod, törekedj mindig a jó válasz kiválasztására. Sok sikert és jó tanulást kívánunk!" FontSize="24" HorizontalAlignment="Left"/>
@@ -14,25 +14,56 @@
             <TextBox x:Name="tbox_nev" FontSize="16" MaxWidth="500" HorizontalAlignment="Left" Width="388" Margin="0,0,0,10"/>
             <Button x:Name="btn_nev" FontSize="24" Content="Beküldés" Click="btn_nev_Click" Padding="5"  MaxWidth="120" HorizontalAlignment="Left"/>
         </StackPanel>
-        <DockPanel x:Name="dock_quiz" Margin="10" Visibility="Hidden">
-            <Label x:Name="lb_szamlalo" HorizontalAlignment="Center" Content="szám helye" DockPanel.Dock="Top"/>
-            <TextBlock x:Name="tbox_kerdes" Text="kérdés helye" HorizontalAlignment="Center" FontSize="60" TextWrapping="Wrap" DockPanel.Dock="Top"/>
-            <Grid DockPanel.Dock="Bottom">
+        <DockPanel x:Name="dock_quiz" Margin="10" Visibility="Hidden" LastChildFill="True">
+            <Label x:Name="lb_szamlalo"
+           HorizontalAlignment="Center"
+           Content="szám helye"
+           DockPanel.Dock="Top" />
+
+            <TextBlock x:Name="tbox_kerdes"
+               Text="kérdés helye"
+               HorizontalAlignment="Center"
+               FontSize="60"
+               TextWrapping="Wrap"
+               DockPanel.Dock="Top" />
+
+            <Grid>
                 <Grid.RowDefinitions>
-                    <RowDefinition Height="*"/>
-                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
                 </Grid.RowDefinitions>
                 <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="*"/>
-                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
                 </Grid.ColumnDefinitions>
-                <Button x:Name="btn_a" Grid.Row="0" Grid.Column="0" Content="A válasz helye" DockPanel.Dock="Left"/>
-                <Button x:Name="btn_b" Grid.Row="0" Grid.Column="1" Content="B válasz helye" DockPanel.Dock="Right"/>
-                <Button x:Name="btn_c" Grid.Row="1" Grid.Column="0" Content="C válasz helye" DockPanel.Dock="Bottom"/>
-                <Button x:Name="btn_d" Grid.Row="1" Grid.Column="1" Content="D válasz helye" DockPanel.Dock="Bottom"/>
+
+                <Button x:Name="btn_a"
+                Grid.Row="0" Grid.Column="0"
+                Content="A válasz helye"
+                Click="answer_btn_Click"
+                Uid="0" />
+
+                <Button x:Name="btn_b"
+                Grid.Row="0" Grid.Column="1"
+                Content="B válasz helye"
+                Click="answer_btn_Click"
+                Uid="1" />
+
+                <Button x:Name="btn_c"
+                Grid.Row="1" Grid.Column="0"
+                Content="C válasz helye"
+                Click="answer_btn_Click"
+                Uid="2" />
+
+                <Button x:Name="btn_d"
+                Grid.Row="1" Grid.Column="1"
+                Content="D válasz helye"
+                Click="answer_btn_Click"
+                Uid="3" />
             </Grid>
         </DockPanel>
-        <StackPanel Visibility="Hidden" x:Name="stack_end">
+
+        <StackPanel x:Name="stack_end" Visibility="Hidden">
             <Label Content="Eredmény:" FontSize="80" HorizontalAlignment="Center"/>
             <TextBlock x:Name="tbox_eredmeny" Text="" FontSize="80" HorizontalAlignment="Center"/>
             <TextBlock Text="Szép munka" FontSize="60" HorizontalAlignment="Center"/>

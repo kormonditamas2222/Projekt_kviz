@@ -1,0 +1,52 @@
+Kérdés;Helyes;HelytelenA;HelytelenB;HelytelenC
+Melyik évben egyesült Buda, Pest és Óbuda?;1873;1848;1918;1809
+Ki volt az első magyar király?;Szent István;Szent László;Károly Róbert;II. András
+Hol zajlott a mohácsi csata?;Mohács;Dunaújváros;Esztergom;Veszprém
+Mikor tört ki az 1848-as forradalom Magyarországon?;1848. március 15.;1849. január 1.;1830. április 2.;1867. június 8.
+Ki vezette a kuruc felkelést a Habsburgok ellen 1703–1711 között?;II. Rákóczi Ferenc;Kossuth Lajos;Hunyadi János;Báthory István
+Melyik király uralkodása alatt történt a tatárjárás?;IV. Béla;I. László;II. Ulászló;III. Béla
+Ki volt a nándorfehérvári diadal egyik fő alakja?;Hunyadi János;Zrínyi Miklós;II. József;Széchenyi István
+Melyik évben lett Magyarország az Európai Unió tagja?;2004;1999;2010;1990
+Kit neveznek „a haza bölcsének"?;Deák Ferenc;Kossuth Lajos;Széchenyi István;Batthyány Lajos
+Hol írták alá a kiegyezést?;Bécs;Pozsony;Párizs;London
+Melyik király idején zajlott a visegrádi királytalálkozó?;Károly Róbert;Mátyás király;IV. Béla;II. József
+Ki alapította a Magyar Tudományos Akadémiát?;Széchenyi István;Deák Ferenc;Kazinczy Ferenc;Eötvös József
+Hol halt meg Szent Gellért?;Budán;Pécsett;Veszprémben;Győrben
+Melyik országgal vívta Magyarország az 1526-os csatát?;Oszmán Birodalom;Orosz Birodalom;Német-Római Császárság;Lengyel Királyság
+Mikor koronázták meg utoljára magyar királyt?;1916;1830;1920;1867
+Kinek a nevéhez fűződik a reformkor gazdasági modernizációja?;Széchenyi István;Petőfi Sándor;Deák Ferenc;Batthyány Lajos
+Ki volt a magyarok vezére a honfoglalás idején?;Árpád;Géza fejedelem;Koppány;Lehel
+Hol zajlott a muhi csata?;Alföld;Dunántúl;Felföld;Őrség
+Ki volt Mátyás király apja?;Hunyadi János;I. Lajos;Károly Róbert;Zrínyi Miklós
+Mi volt a Rákosi-rendszer egyik legfontosabb jellemzője?;Kollektivizálás;Abszolutizmus;Feudalizmus;Dualizmus
+Ki volt a francia forradalom legismertebb vezetője a jakobinus diktatúra alatt?;Robespierre;Lafayette;Napóleon;Danton
+Melyik évben fedezte fel Kolumbusz Amerikát?;1492;1517;1453;1607
+Ki volt az első római császár?;Augustus;Nero;Julius Caesar;Tiberius
+Hol épültek a legnagyobb piramisok?;Egyiptom;Mezopotámia;Kína;Peru
+Melyik háborúban használták először tömegesen tankokat?;Első világháború;Második világháború;Koreai háború;Krími háború
+Ki írta alá a 95 pontot, amely elindította a reformációt?;Luther Márton;Kálvin János;Erasmus;II. Gyula pápa
+Hol zajlott a Waterloo-i csata?;Belgium;Spanyolország;Franciaország;Anglia
+Ki volt az Amerikai Egyesült Államok első elnöke?;George Washington;Abraham Lincoln;John Adams;Thomas Jefferson
+Melyik ország támadta meg Lengyelországot 1939-ben Németországgal együtt?;Szovjetunió;Olaszország;Japán;USA
+Melyik birodalom építette a Colosseumot?;Római;Görög;Egyiptomi;Bizánci
+Hol született a demokrácia fogalma?;Athén;Róma;Spárta;Alexandria
+Melyik évben végezték ki I. Károly angol királyt?;1649;1492;1789;1815
+Ki volt a híres makedón király, aki világbirodalmat hódított?;Nagy Sándor;Dareiosz;Hannibál;Periklész
+Hol tört ki a reneszánsz?;Olaszország;Franciaország;Anglia;Németország
+Melyik ország alapította a gyarmatosítás korai szakaszában a legtöbb dél-amerikai telepet?;Spanyolország;Portugália;Franciaország;Hollandia
+Mikor ért véget a második világháború?;1945;1939;1918;1950
+Kinek a nevéhez fűződik az evolúció elmélete?;Darwin;Freud;Pascal;Newton
+Melyik országban tört ki a polgárháború 1861-ben?;USA;Franciaország;Oroszország;Spanyolország
+Ki volt a híres pun hadvezér, aki elefántokkal kelt át az Alpokon?;Hannibál;Scipio;César;Augustus
+Melyik szerződés vetett véget az első világháborúnak Németország számára?;Versailles;Trianon;Potsdam;Yalta
+Hol alakult ki a mezopotámiai civilizáció?;Eufrátesz–Tigris között;Duna–Tisza között;Indus-völgyben;Nílus mentén
+Melyik városban található a Parthenón?;Athén;Róma;Alexandria;Spárta
+Ki volt az első nő, aki Nobel-díjat kapott?;Marie Curie;Rosalind Franklin;Ada Lovelace;Hypatia
+Melyik eseménnyel kezdődött a középkor?;Nyugatrómai Birodalom bukása;Magna Charta kiadása;reneszánsz kezdete;keresztes háborúk
+Melyik évben indult el az első űrhajós, Jurij Gagarin?;1961;1950;1979;1945
+Melyik ország ellen vívták a spártaiak a peloponnészoszi háborút?;Athén;Trója;Róma;Karthágó
+Ki írta „A kommunista kiáltványt"?;Karl Marx és Friedrich Engels;John Locke;Adam Smith;Voltaire
+Melyik magyar király alatt lett vármegyei rendszer az országban?;I. István;III. Béla;IV. Béla;I. András
+Melyik csata tekinthető a második világháború fordulópontjának Európában?;Sztálingrád;El-Alamein;Normandia;Ardennek
+Ki volt a Német-római Birodalom első császára?;I. Ottó;Nagy Károly;IV. Henrik;Frederick Barbarossa
+Melyik város volt a Bizánci Birodalom központja?;Konstantinápoly;Róma;Antiochia;Alexandria
