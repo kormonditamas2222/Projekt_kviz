@@ -36,6 +36,12 @@ namespace kviz
         private void btn_nev_Click(object sender, RoutedEventArgs e)
         {
             nev = tbox_nev.Text.Trim();
+            if (nev.Count() == 0)
+            {
+                lb_start_error.Content = "Kérlek add meg a neved.";
+                return;
+            }
+
             stack_start.Visibility = Visibility.Hidden;
             dock_quiz.Visibility = Visibility.Visible;
 

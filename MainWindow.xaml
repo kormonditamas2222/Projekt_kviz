@@ -13,6 +13,7 @@
             <Label Content="Neved:" FontSize="16"/>
             <TextBox x:Name="tbox_nev" FontSize="16" MaxWidth="500" HorizontalAlignment="Left" Width="388" Margin="0,0,0,10"/>
             <Button x:Name="btn_nev" FontSize="24" Content="Beküldés" Click="btn_nev_Click" Padding="5"  MaxWidth="120" HorizontalAlignment="Left"/>
+            <Label x:Name="lb_start_error" Foreground="Red"/>
         </StackPanel>
         <DockPanel x:Name="dock_quiz" Margin="10" Visibility="Hidden" LastChildFill="True">
             <Label x:Name="lb_szamlalo"
